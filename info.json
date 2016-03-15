@@ -1,0 +1,9 @@
+{
+  "name": "Greater-Reach",
+  "version": "0.0.1",
+  "title": "Greater Reach",
+  "author": "oboema",
+  "homepage": "sarijopen.student.utwente.nl",
+  "dependencies": ["base"],
+  "description": "Increases the range in which you can interact with objects"
+}
